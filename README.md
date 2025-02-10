@@ -4,8 +4,8 @@ Este repositorio contiene las sesiones y materiales correspondientes a la asigna
 
 ## Contenido del Repositorio
 
-- **Session2.ipynb**: Notebook con el contenido de la sesión 2.
-- **Session2_student.ipynb**: Versión del notebook dirigida a los estudiantes.
+- **SessionX.ipynb**: Notebook con el contenido de la sesión X.
+- **SessionX_student.ipynb**: Versión del notebook dirigida a los estudiantes.
 
 > *Nota: Se espera que se agreguen más sesiones y materiales a medida que avance el curso.*
 
